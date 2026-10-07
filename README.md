@@ -988,8 +988,4 @@ VIT Bhopal University
 
 ---
 
-## 📜 License
-
-This project is intended for educational, prototyping, and research purposes.
-
-Add an appropriate open-source license to this repository if you intend to permit reuse or modification.sors` `Servo Motor` `Embedded Systems` `Robotics`
+ 
